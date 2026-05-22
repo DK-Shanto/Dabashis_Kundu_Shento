@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "DMart Shopify Store",
+    "platform": "Shopify",
+    "description": "A conversion-focused e-commerce store for a smart tech & watches brand. Built on Shopify with custom theme design, cohesive branding, and a sale-optimized UI.",
+    "demoUrl": "https://dabashis-mart.myshopify.com/",
+    "image": "/images/shopify.png",
+    "tags": ["Shopify", "E-commerce", "Theme Customization"]
+  },
+  {
+    "id": 2,
+    "title": "Good Dye Young — Rockstar-Grade, Hair-Healthy Color",
+    "platform": "Wix",
+    "description": "The site offers a range of rockstar-grade, hair-healthy products including semi-permanent dyes, hair makeup, and care solutions, catering to individuals who want to explore bold hair colors while keeping things vegan, cruelty-free, and environmentally friendly.",
+    "demoUrl": "https://gooddyeyoung.com/",
+    "image": "/images/wix.png",
+    "tags": ["Wix", "Portfolio", "Agency"]
+  },
+  {
+    "id": 3,
+    "title": "Ambiance Matchmaking",
+    "platform": "WordPress",
+    "description": "A premium WordPress & Divi website for a high-end matchmaking service targeting executives and entrepreneurs — built with a conversion-focused layout to drive client applications.",
+    "demoUrl": "https://ambiancematchmaking.com/",
+    "image": "/images/wordpres.png",
+    "tags": ["WordPress", "Divi", "SEO"]
+  }
+]

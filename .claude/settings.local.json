@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(node -e \"const { siShopify, siWordpress, siWix } = require\\('simple-icons'\\); console.log\\('Shopify hex:', siShopify.hex\\); console.log\\('WP hex:', siWordpress.hex\\); console.log\\('Wix hex:', siWix.hex\\);\")",
+      "Bash(node -e \"const { siShopify, siWordpress, siWix } = require\\('simple-icons'\\); console.log\\('SHOPIFY:', siShopify.path\\); console.log\\('---'\\); console.log\\('WP:', siWordpress.path\\); console.log\\('---'\\); console.log\\('WIX:', siWix.path\\);\")",
+      "Bash(node -e \"const { siShopify } = require\\('simple-icons'\\); console.log\\('viewBox:', siShopify.svg\\); console.log\\('path start:', siShopify.path.substring\\(0, 100\\)\\);\")"
+    ]
+  }
+}
